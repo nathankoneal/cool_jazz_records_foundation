@@ -1,0 +1,26 @@
+body{background-color: #000000;
+	font-family: "Times New Roman"}*/
+
+.row > .large-12 {
+	background-color: #000000; text-align: center;
+	font-family: "Times New Roman" 
+
+}
+.row > .large-12 > h1 {color: yellow;
+ font-family: "Times New Roman";
+ text-align: center;
+}
+
+.row > .large-8 > p {color: yellow;
+ font-family: "Times New Roman"}
+
+.row > .large-8 {text-align: center;}
+.row > .large-4 {text-align: center;}
+
+.row > .large-4 > p {color: yellow;
+ font-family: "Times New Roman"}
+
+.slides1 {height: 500px; width: 500px;}
+
+.orbit-container {height: 500px; width: 500px;}
+/*.row > .large-4 {text-align: center;}*/
